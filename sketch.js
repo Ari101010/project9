@@ -15,11 +15,13 @@ background("red")
 
   
   if(keyIsDown(LEFT_ARROW)){
-background("blue")  }
+background("blue")  
+  }
 
   
   if(keyIsDown(UP_ARROW)){
-background("yellow")  }
+background("yellow") 
+  }
 
   
   if(keyIsDown(DOWN_ARROW)){
